@@ -15,21 +15,20 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
-const BotName = 'Lexa';
-const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
+const BotName = 'Ndra Botz';
+const wa = 'Coming Soon Tod';
 const eror = 'Info fitur Error';
-const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
+const ow = 'Hendra Ganz';
+const nomorowner = '085710041579';
+const pulsa = '085710041579';
+const gopay = '085710041579';
+const instagram = 'http://www.instagram.com/ff.forzy';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'FN:Hendra\n' // Nama kamu
+  + 'ORG:Ndra Botz;\n' // Nama bot
+  + 'TEL;type=CELL;type=VOICE;waid=6285710041579:+62 857-1004-1579\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
 const
@@ -468,10 +467,10 @@ _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). J
 ╠≽️ *Asal Kota*
 ╠≽️ *Gender*
 ╠════════════════════
-║──────── *Lexa* ──────── 
+║──────── *Hendra* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *Lexa* ────────
+║──────── *Hendra* ────────
 ╠════════════════════
 ╠════════════════════` , MessageType.text);
   }
